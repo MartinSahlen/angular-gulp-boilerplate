@@ -1,0 +1,6 @@
+dist/
+src/files/bower_components/
+src/.tmp/
+node_modules/
+.DS_Store
+src/modules/example/config/environment.js
